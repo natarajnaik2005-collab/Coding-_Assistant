@@ -83,12 +83,14 @@ C:\apache-tomcat-9.0\bin\startup.bat
 ```
 
 ### 5. Access Application
-```
+```bash
 http://localhost:8080/coding-assessment/login
 ```
 
-📊 Database Schema
+## 📊 Database Schema
 
+### Entity Relationship Diagram
+```
 users
 ├── user_id (PK)
 ├── username
