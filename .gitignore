@@ -94,4 +94,4 @@ buildNumber.properties
 # Gradle
 .gradle/
 gradle-app.setting
-!gradle-wrapper.jar
+!gradle-wrapper.jarbuild/
